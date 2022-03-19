@@ -1,0 +1,2 @@
+//Excludes all the files in node_modules directory
+node_modules/*
